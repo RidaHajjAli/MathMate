@@ -88,7 +88,11 @@ The chatbot follows a smart decision pipeline:
    `Output`: "🧮 SymPy Result: 2 + π²"  
 
 2. Demo:  
+<<<<<<< HEAD
    ![Demo](assets/demoSymPy.gif)  
+=======
+   ![Explanation Demo](assests/demoSymPy.mp4 )  
+>>>>>>> 87b15ad0c2c51eee5ab7a8a8ec827a28a3989bdf
 
 ---
 
@@ -104,7 +108,11 @@ gemini-sympy-chatbot/
 ├── config.py           # Gemini model settings  
 ├── requirements.txt    # Dependencies  
 └── assests/  
+<<<<<<< HEAD
     └── demoSymPy.gif   # Demo video  
+=======
+    └── demoSymPy.mp4   # Demo video  
+>>>>>>> 87b15ad0c2c51eee5ab7a8a8ec827a28a3989bdf
 ```
 
 ---
