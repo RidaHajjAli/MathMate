@@ -82,13 +82,10 @@ The chatbot follows a smart decision pipeline:
 ---
 
 ## 🎥 **Demo**  
-**Sample Interactions:**  
-1. Calculation:  
-   `Input`: "Calculate ∫(sin(x) + 2x) dx from 0 to π"  
-   `Output`: "🧮 SymPy Result: 2 + π²"  
-
-2. Demo:  
-   ![Demo](assets/demoSymPy.gif)  
+<p align="center">
+  <img src="assets/demoSymPy.gif" width="600" alt="Demo Animation">
+</p>
+    
 
 ---
 
@@ -104,11 +101,7 @@ gemini-sympy-chatbot/
 ├── config.py           # Gemini model settings  
 ├── requirements.txt    # Dependencies  
 └── assests/  
-<<<<<<< HEAD
     └── demoSymPy.gif   # Demo video  
-=======
-    └── demoSymPy.mp4   # Demo video  
->>>>>>> 87b15ad0c2c51eee5ab7a8a8ec827a28a3989bdf
 ```
 
 ---
