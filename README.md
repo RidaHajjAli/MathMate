@@ -63,8 +63,8 @@ The chatbot follows a smart decision pipeline:
 
 2. **Installation**  
    ```bash
-   git clone https://github.com/yourusername/gemini-sympy-chatbot.git
-   cd gemini-sympy-chatbot
+   git clone https://github.com/RidaHajjAli/MathMate.git
+   cd MathMate
    pip install -r requirements.txt
    ```
 
