@@ -82,9 +82,7 @@ The chatbot follows a smart decision pipeline:
 ---
 
 ## 🎥 **Demo**  
-<p align="center">
-  <img src="assets/demoSymPy.gif" width="600" alt="Demo Animation">
-</p> (sorry for low quality 😅)
+https://github.com/user-attachments/assets/4ba9f0f0-fb3a-425a-8994-0c2e56fc7437
     
 
 ---
